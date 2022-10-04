@@ -9,4 +9,4 @@ while True:
     if result:
         print("It's okay")
     else:
-        print("incorrect email")
+        print("Incorrect email")
